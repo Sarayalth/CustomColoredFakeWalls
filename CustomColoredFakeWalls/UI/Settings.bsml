@@ -1,0 +1,6 @@
+﻿<settings-container>
+  <checkbox text='Apply fast walls color' value='fast-walls-color-bool' apply-on-change='true'/>
+  <color-setting text='Fast walls color' value='fast-walls-color' apply-on-change='true'/>
+  <checkbox text='Apply fake walls color' value='fake-walls-color-bool' apply-on-change='true'/>
+  <color-setting text='Fake walls color' value='fake-walls-color' apply-on-change='true'/>
+</settings-container>

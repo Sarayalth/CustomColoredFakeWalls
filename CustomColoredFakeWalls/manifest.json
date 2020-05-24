@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "id": "CustomColoredFakeWalls",
+  "name": "CustomColoredFakeWalls",
+  "author": "Sarayalth",
+  "version": "1.0.0",
+  "description": "just as the name says.",
+  "gameVersion": "1.9.0",
+  "dependsOn": {
+    "BS Utils": "^1.4.8",
+    "BeatSaberMarkupLanguage": "^1.1.5"
+  },
+  "features": []
+}
